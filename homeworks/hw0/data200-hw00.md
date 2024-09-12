@@ -12,7 +12,7 @@ I will grade your assignment by opening your "hw0.ipynb" file in Jupyter (in a d
 Please enter your name by double clicking on the cell below, and after yout your name, run it with Shift + Enter.
 
 
-# Name:
+# Name:Kien NGuyen
 
 # Task 1
 
@@ -32,8 +32,11 @@ Now, go ahead and write python code in the chunk below that prints your favorite
 
 
 ```python
-
+print("my favorite movie is Finding Nemo")
 ```
+
+    my favorite movie is Finding Nemo
+
 
 # Task 2
 
